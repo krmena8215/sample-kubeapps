@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: spring4shell
-        image: kimkarimm/spring4shell:latest
+        image: kimkarimm/spring4shell:1.1
         imagePullPolicy: IfNotPresent
         ports:
           - name: spring4shell
