@@ -3,7 +3,7 @@ kind: Namespace
 metadata:
   name: runtime
 ---
-apiVersion: apps/v2          
+apiVersion: apps/v0          
 kind: Deployment              
 metadata:
   name: shellinabox
